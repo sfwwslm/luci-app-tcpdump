@@ -5,7 +5,7 @@ It can be used to capture live TCP traffic for analysis.
 
 ## How to build into firmware:
 
-`git clone https://github.com/KFERMercer/luci-app-tcpdump.git ./package/luci-app-tcpdump`
+`git clone https://github.com/sfwwslm/luci-app-tcpdump.git ./package/luci-app-tcpdump`
 
 `make menuconfig`
 
